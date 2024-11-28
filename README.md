@@ -2,7 +2,7 @@
 ## a theme for onionOS
 
          Home screen           |           Settings menu          |         Games list
-:-----------------------------:|:--------------------------------:|:----------------------------|:
+|------------------------------|----------------------------------|----------------------------|
 ![home screen](./preview1.png) | ![settings menu](./preview2.png) | ![games list](./preview3.png)
   
 
