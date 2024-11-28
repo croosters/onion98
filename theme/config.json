@@ -1,0 +1,43 @@
+{
+    "name": "onion98",
+    "batteryPercentage": {
+        "visible": false
+    },
+    "author": "croost",
+    "frame": {
+        "border-left": 9,
+        "border-right": 9
+    },
+    "title": {
+        "font": "W95FA.otf",
+        "size": 30,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "W95FA.otf",
+        "size": 0,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"  
+    },
+    "grid": {
+        "font": "W95FA.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#ffffff",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "W95FA.otf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
