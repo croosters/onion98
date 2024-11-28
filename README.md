@@ -1,7 +1,10 @@
 # onion98
 ## a theme for onionOS
 
-![home screen](./preview1.png) ![settings menu](./preview2.png) ![games list](./preview3.png)
+         Home screen           |           Settings menu          |         Games list
+:-----------------------------:|:--------------------------------:|:----------------------------|:
+![home screen](./preview1.png) | ![settings menu](./preview2.png) | ![games list](./preview3.png)
+  
 
 This theme is a heavily modified version of the *win98* theme by _kyhynngy_oyuur_, which can be downloaded from the [OnionUI themes repository](https://github.com/OnionUI/Themes?tab=readme-ov-file).
 
