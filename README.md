@@ -16,7 +16,9 @@ Feel free to use or edit this theme in any way you wish.  Go hog wild my friend.
 
 ## How to install
 If you just want to install the base theme, just download the onion98.zip file and copy to the Themes folder on your SD card (no need to unzip).
+
 You can change the icons in the tweaks menu by going to Apps > Tweaks > Appearance > Icon Packs > Apply Icon Pack and select the onion98 pack.
+
 Currently there are replacement icons for the Tweaks menu as well as console icons for MS DOS and Windows 3.1, but no other custom console icons.
 
 ## Coming soon
