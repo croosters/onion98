@@ -1,5 +1,5 @@
 # onion98
-## a theme for onionOS
+_a theme for onionOS_
 
 |         Home screen            |           Settings menu          |         Games list            |
 | ------------------------------ | -------------------------------- | ----------------------------- |
