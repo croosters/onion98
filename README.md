@@ -15,11 +15,11 @@ All Windows icons were taken from the [Windows 98 Icon Viewer](https://win98icon
 Feel free to use or edit this theme in any way you wish.  Go hog wild my friend.
 
 ## How to install
-If you just want to install the base theme, just download the onion98.zip file and copy to the Themes folder on your SD card (no need to unzip).
+If you only want to install the base theme, just download the onion98.zip file and copy to the Themes folder on your SD card (no need to unzip).
 
-You can change the icons in the tweaks menu by going to Apps > Tweaks > Appearance > Icon Packs > Apply Icon Pack and select the onion98 pack.
+Additional icons can be changed via the Tweaks menu by going to Apps > Tweaks > Appearance > Icon Packs > Apply Icon Pack and selecting the onion98 pack.
 
-Currently there are replacement icons for the Tweaks menu as well as console icons for MS DOS and Windows 3.1, but no other custom console icons.
+As of right now, there are replacement icons for the Tweaks menu itself, as well as console icons for MS DOS and Windows 3.1 - sadly, no custom console icons yet.
 
 ## Coming soon
 - Custom console icons in a Windows 98 style!
